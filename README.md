@@ -1,6 +1,6 @@
 # microservices-school
 
-Application done following the training [**Microservices with Spring Cloud & Angular 10**](https://www.udemy.com/course/microservicios-spring-cloud-y-angular-9/learn/lecture/17302890)
+Application done following the training [**Microservices with Spring Cloud & Angular 10**](https://www.udemy.com/course/microservicios-spring-cloud-y-angular-9/)
 
 ## Tech Stack 
 
